@@ -17,7 +17,7 @@ Each implementation of .NET includes the following components:
 
 There are four .NET implementations that Microsoft supports:
 
-- .NET 5 (and .NET Core) and later versions
+- .NET 5+ (and .NET Core) and later versions
 - .NET Framework
 - Mono
 - UWP
